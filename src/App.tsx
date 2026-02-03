@@ -15,7 +15,7 @@ export default function Page() {
       "No",
       "Are you sure?",
       "Really sure?",
-      "Think again!",
+      "Bitch, think again!",
       "Last chance!",
       "Surely not?",
       "You might regret this!",
@@ -46,7 +46,7 @@ export default function Page() {
             <img
               className="h-[200px]"
               style={{ width: "400x", height: "240px" }}
-              src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+              src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExam12dHRyemllcDUyZTkxY3AwNnZ6cTNlMTFoOGxoazhobWJpYWNoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/11nPtD8gHrkMr6/giphy.gif"
             />
             <h1 className="text-container">Hey Mari-Biscuit! Will you be my Valentine?</h1>
             <div>
