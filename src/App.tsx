@@ -38,7 +38,7 @@ export default function Page() {
       <div className="valentine-container">
         {yesPressed ? (
           <>
-            <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNhcTl6dTlydDF6aTU0enQ5eWNhYjhzZHA0MDFqaDczY3F6NDBycyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nydo55HzhyGqI/giphy.gif" />
             <div className="text-container">Ok yay!!!</div>
           </>
         ) : (
@@ -48,7 +48,7 @@ export default function Page() {
               style={{ width: "400x", height: "240px" }}
               src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
             />
-            <h1 className="text-container">Will you be my Valentine?</h1>
+            <h1 className="text-container">Hey Mari-Biscuit! Will you be my Valentine?</h1>
             <div>
               <button
                 className={"yes-button"}
